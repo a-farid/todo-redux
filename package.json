@@ -1,5 +1,6 @@
 {
   "name": "todo-redux",
+  "author" : "farid ahizoune",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
